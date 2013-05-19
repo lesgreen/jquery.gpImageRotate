@@ -1,0 +1,44 @@
+{
+"name": "gpimagerotate",
+"title": "gpImageRotate",
+"description": "jQuery plugin for creating portfolios, carousels, image galleries, and more.",
+"keywords": [
+"portfolio",
+"carousel",
+"gallery",
+"animation",
+"pixels",
+"fade",
+"zoom",
+"curtain",
+"blinds",
+"steps",
+"squeeze",
+"random"
+],
+"version": "0.5.0",
+"author": {
+"name": "Les Green",
+"url": "https://grasshopperpebbles.com/"
+},
+"maintainers": [
+{
+"name": "Les Green",
+"email": "lesgreen@grasshopperpebbles.com",
+"url": "http://grasshopperpebbles.com"
+}
+],
+"licenses": [
+{
+"type": "GNU",
+"url": "https://github.com/lesgreen/jquery.gpImageRotate/blob/master/license.txt"
+}
+],
+"bugs": "https://github.com/lesgreen/jquery.gpImageRotate/issues",
+"homepage": "https://github.com/lesgreen/jquery.gpImageRotate",
+"docs": "http://grasshopperpebbles.com/ajax/jquery-plugin-gpimagerotate-create-portfolios-carousels-galleries-and-more/",
+"download": "https://github.com/lesgreen/jquery.gpImageRotate",
+"dependencies": {
+"jquery": ">=1.5"
+}
+}
