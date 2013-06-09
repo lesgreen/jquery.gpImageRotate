@@ -14,7 +14,9 @@
 "blinds",
 "steps",
 "squeeze",
-"random"
+"random",
+"effect",
+"slider"
 ],
 "version": "0.5.0",
 "author": {
